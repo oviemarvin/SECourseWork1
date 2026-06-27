@@ -22,7 +22,7 @@ if __name__ == "__main__":
             decimal_to_hex(decimal_value)
         except ValueError:
             print("Please provide a valid integer.")
-	    sys.exit(0)
+	sys.exit(0)
     else:
         print("Usage: python script.py <decimal_number>") 
 	sys.exit(1)
