@@ -1,2 +1,2 @@
 # SECourseWork1
-SE  and Dev ops
+SE  and Dev ops coursework
